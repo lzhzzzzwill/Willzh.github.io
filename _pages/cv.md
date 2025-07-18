@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Educational experience
+======
 * **Ph.D**, Central South University (2021–2025)  
   _Major: Chemical Engineering and Technology_
 
@@ -20,19 +22,15 @@ redirect_from:
 
 Work experience
 ======
-* 2025.06: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Full-time Teacher**, Hunan University Of Technology and Business (2021–)  
+  _Major: Environmental Engineering_
   
-Skills
+Skills and Interesting
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* MOFs' Growth and Application
+* Large language model agent
+* Data visualization
 
 Publications
 ======
@@ -45,13 +43,23 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+<!--  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
+<!-- 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
+
+Award
+======
+* President's Innovation Scholarship of Central South University (2024) 
+* First- and second-class academic scholarships of Central South University (2021–2025)
+* First- and second-class academic scholarships of Beijing University of Chemical Technology (2018–2021)
