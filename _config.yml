@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zuhong / Site Title"
+title                    : "Zuhong Lin"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
