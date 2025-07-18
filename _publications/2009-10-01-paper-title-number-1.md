@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Rapidly tailor metal–organic frameworks for arsenate removal using graph convolutional neural networks"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+githuburl: '[http://academicpages.github.io/files/slides1.pdf](https://github.com/lzhzzzzwill/GCN-Model-for-Arsenate-Adsorption-MOFs)'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://pdf.sciencedirectassets.com/271948/1-s2.0-S1383586624X00295/1-s2.0-S1383586624030739/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHcaCXVzLWVhc3QtMSJHMEUCIQDSzR0MRmLfyx2DPbWzzWLvwSdhEB2z7vJrXoB9jC90WQIgCpQfklHqgmraVxORimyoGR%2Fltxe8ym5SJujj8vZQY7YqvAUIj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDN%2FSZJ5F30O8RUA1mCqQBbJcuj8m5X%2BWAb1pIGkNXdkuiqigcZbW%2FdLJ21qMFzv%2FmINXDZyyGOMKOtlaPEG2evE4U7GA4IyiHsH9FwBWDoc10Cr7lszBAMut8Kc%2Fpztc5Y%2BNczm6umF3bPdxlw4cUzQZcwHzUAsO4PDWqcJdU0UVr7Or8wE6ofnAcAnYxQPhSOE4I%2FGAh5KY%2BzRQGgD3b1TvLVoc8LZRIygIuS8wSMAaiZDpUxI8O4qPlntQQZ43vuWKwPaE7EZ5TIN5fytePcrfGCuDZfdR9toqbmkplS1I%2Fb6vOG61ilMv6fzIF1HFRhevmcivBVs51J9%2FiHZh%2BOdoBOIvq34RGAMf9bw1UN4D9QLHSEp9ay%2FjiP%2BIhL1872vcw6L%2BxAN3YVk2I%2FyU6X3oF0O69rZ97rVQyaPKCViA5qw%2F4gunq513VIKr4Hn8yDSbpYtkNuKQy2BHgcWuI0CRkqzdx%2FS5KbbBzadBI3d0sIZQl5qp%2BNriSNEUAAwwwTl6olptCrEyue%2FoFW8RD%2FsVk%2BqYWJu0KnQBi9Y5mnt1YkFWYQ3qrEH2KMAA2Aet6cXXAOzT5sqIRpxaLkgswalXjBF%2FDdic7xdwUR2IrBOdZ4OxJ58ptvB%2BNKsYeuxdTUdAqeHyyo9tSOPOzd5rgTaY7ppQTRJa4T52XwFYa%2FSbeYLDqfeOw51ZlbnNY9iKqBgQXCDnw5V5R%2FyvG0GM65eLETbyelZWNphbIy97uo0FQPa6gykl7lb7N7lZpkcggWJrbcwRpAWXu6jhEDdbMt9R0Nz16b%2FCVKFVIQs0AMDd55d5I6PBT6THAlFzQKfaADUk8H3djBZ5XRlSMO4BSOqBjFVntZF1V87MEvl%2BllDpaXp0yfpWKyY%2Bg3x9hXl8MKyv6cMGOrEB8fdBUXAT4qNCJ3AkGy1qAUqkBBeebbPaqNxtkjW6Jx9pVNJdupJ%2By2E51Fe0bDX0xX9QQd3q3CQs4nL4aTrxvDoL3tY6EQfTjd8bCBw5huu1crdgYe5gZOEUpjUgygd8zKlbTI5Rkaxz8rJVh0kbd7xD8iyyCybjjXumpf3vbKh1ww85rUD9%2FN570%2Bqlbrwhm90CXgaFjwe%2BhMIiz5Mq9McoOCajhjx720cMrBFMwlq%2F&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250718T151034Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQFF3MEAO%2F20250718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1619b6fce2ae11bad49a3a07d25a3e8eb51a8e1698fd2a1bbe851ba80fdae8d4&hash=5207a1a7dd2aace65e8c87f9ce675aeb8b4bc9261a23f904e506774d16705032&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1383586624030739&tid=spdf-b687aeb0-f15f-40f5-ab2b-1024a1bd371e&sid=c2a535d57e204148fd9937b696d334e61d65gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d0c5952565d025f5f5a&rr=9612e8198b324ba3&cc=hk&kca=eyJrZXkiOiJPMWhxcFNoNHlGejEzWTNPbThvUmJaTUJIdEZYSmZnZHkwWWdpb3V5eDRQVG1nczg5ckhlcHUxcGovbDVNTjlCY3ltbmxVVTNLYXkrL0kvc3F0YU1SZGlJenlTdHQ2dFlMeEZuNGkrUGdEQWN3cDBwWnpQUkZqdjRjVTVLTmFNc1NxYTRONEdoeVQyeFVmME5hS095S0c1bFJsc2ZZdjhGK3MyRERXZFNEN3BnY0tociIsIml2IjoiZjlhZTEyZjljNWU0YzhkODBhYzJmNmIyY2FlNDRkMGYifQ==_1752851450215)'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
