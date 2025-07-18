@@ -9,28 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D**, Central South University (2021–2025)  
+  _Major: Chemical Engineering and Technology_
+
+* **M.S.**, Beijing University of Chemical Technology (2018–2021)  
+  _Major: Environmental Engineering_
+
+* **B.S.**, Nanchang Hangkong University (2014–2018)  
+  _Major: Environmental Engineering_
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* 2025.06: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
