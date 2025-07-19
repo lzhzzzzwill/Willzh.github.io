@@ -57,10 +57,12 @@ layout: default
           {% if page.githuburl %}
             <p><a href="{{ page.githuburl }}" target="_blank">GitHub repository</a></p>
           {% endif %}
-      
+        
+          {%- comment -%}#
           {% if page.bibtexurl %}
             <p><a href="{{ page.bibtexurl }}" target="_blank">Bibtex</a></p>
           {% endif %}
+          {%- endcomment -%}#
       
           {% if page.show_content %}
             {{ content }}
