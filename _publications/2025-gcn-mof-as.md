@@ -8,6 +8,7 @@ venue: 'Separation and Purification Technology'
 githuburl: 'https://github.com/lzhzzzzwill/GCN-Model-for-Arsenate-Adsorption-MOFs'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1383586624030739?via=ihub'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+excerpt: ""
 show_fulltext: true
 show_github: true
 show_content: true
