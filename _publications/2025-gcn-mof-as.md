@@ -2,8 +2,8 @@
 title: "Rapidly tailor metal–organic frameworks for arsenate removal using graph convolutional neural networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2025-gcn-mof-as
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-08-18
 venue: 'Journal 1'
 githuburl: 'https://github.com/lzhzzzzwill/GCN-Model-for-Arsenate-Adsorption-MOFs'
