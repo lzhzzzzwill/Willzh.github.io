@@ -1,6 +1,7 @@
 ---
 title: "Enhancing arsenate removal through interpretable machine learning guiding the modular design of metal–organic frameworks"
 collection: publications
+excerpt: ""
 category: manuscripts
 permalink: /publication/2024-iml-mof-as
 date: 2024-08-24
