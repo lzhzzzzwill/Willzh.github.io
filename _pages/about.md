@@ -24,5 +24,5 @@ Looking ahead, I plan to expand my research into broader application areas of MO
 Getting started
 ======
 - I actively participate in the GitHub, Hugging Face, and ResearchGate communities, where I’m passionate about exploring and staying up to date with others’ work in the field.
-- 👈Feel free to drop me at my 📮.
+- 👈Feel free to drop me at these ways🏙️.
 
