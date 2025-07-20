@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Zuhong Lin, and I am currently a full-time faculty member at the **School of Resources and Environment, Hunan University of Technology and Business**. I completed my undergraduate and master’s studies at Nanchang Hangkong University and Beijing University of Chemical Technology, respectively, and received my Ph.D. in Engineering from Central South University.
+Hello, my name is Zuhong Lin, and I am currently a full-time teacher at the **School of Resources and Environment, Hunan University of Technology and Business**. I completed my undergraduate and master’s studies at Nanchang Hangkong University and Beijing University of Chemical Technology, respectively, and received my Ph.D. in Engineering from Central South University.
 
 My research focuses on applying artificial intelligence to solve challenges in environmental and chemical engineering. I’m particularly interested in combining data-driven approaches with domain knowledge to design sustainable materials and processes. I’m passionate about interdisciplinary collaboration and always eager to explore how intelligent technologies can contribute to a cleaner and more efficient future.
 
