@@ -18,7 +18,8 @@ Specifically, I am passionate about leveraging *machine learning (ML), particula
 During my graduate studies, my research focused on arsenic, a toxic heavy metal that poses a serious threat to human health. The World Health Organization sets the allowable arsenic concentration in drinking water at 10 ppb, yet many regions in northern China still suffer from levels far exceeding this limit. Motivated by this pressing issue, I have designed a series of MOFs and other functional materials for arsenic removal using a combination of trial-and-error synthesis, machine learning models, and theoretical analysis.
 
 Beyond material discovery, I am also deeply interested in the automation of scientific workflows. I developed a suite of agents powered by large language models (LLMs) to extract MOF synthesis methods directly from scientific literature. This end-to-end pipeline, which I call **MOFh6**, serves as a ***“dragon-searching ruler”***—a tool capable of parsing complex text, extracting synthesis knowledge, querying MOF structural data, retrieving crystallographic information files, and even visualizing crystal structures.
-Looking ahead, I plan to expand my research into broader application areas of MOFs, including advanced oxidation processes, atmospheric water harvesting, and gas separation. Ultimately, I hope to contribute to sustainable environmental technologies and support China’s dual carbon goals through intelligent materials design.
+
+Looking ahead, I plan to expand my research into broader application areas of MOFs, including *advanced oxidation processes*, *atmospheric water harvesting*, and *gas separation*. Ultimately, I hope to contribute to sustainable environmental technologies and support China’s dual carbon goals through intelligent materials design.
 
 Getting started
 ======
