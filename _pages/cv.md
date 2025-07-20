@@ -11,15 +11,17 @@ redirect_from:
 
 Educational experience
 ======
-* **Ph.D**, Central South University (2021–2025), Advisor: [Prof. Haipu Li](https://faculty.csu.edu.cn/lihaipu/en/index/10852/list/)
-  _Major: Chemical Engineering and Technology_
-  
-* **M.S.**, Beijing University of Chemical Technology (2018–2021), Advisor: [Prof. Tingting Zhang](https://faculty.buct.edu.cn/chem/ztt2_en/main.htm)
-  _Major: Environmental Engineering_
-  
+* **Ph.D.**, Central South University (2021–2025)  
+  _Major: Chemical Engineering and Technology_  
+  Advisor: [Prof. Haipu Li](https://faculty.csu.edu.cn/lihaipu/en/index/10852/list/)
 
-* **B.S.**, Nanchang Hangkong University (2014–2018), Advisor: [Assoc. Prof. Zhensheng Xiong](https://huanhua.nchu.edu.cn/szll/jsxx/content_58125)
-  _Major: Environmental Engineering_
+* **M.S.**, Beijing University of Chemical Technology (2018–2021)  
+  _Major: Environmental Engineering_  
+  Advisor: [Prof. Tingting Zhang](https://faculty.buct.edu.cn/chem/ztt2_en/main.htm)
+
+* **B.S.**, Nanchang Hangkong University (2014–2018)  
+  _Major: Environmental Engineering_  
+  Advisor: [Assoc. Prof. Zhensheng Xiong](https://huanhua.nchu.edu.cn/szll/jsxx/content_58125)
 
 Work experience
 ======
