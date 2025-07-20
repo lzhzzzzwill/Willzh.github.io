@@ -1,10 +1,6 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
+{% assign teaser = post.header.teaser | default: site.teaser %}
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
@@ -12,21 +8,19 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     {%- comment -%}
-    如果需要网格布局（带图片 teaser），可在下方取消注释
-    {%- endcomment -%}
-    {#
-    {% if include.type == "grid" and teaser %}
+    如需网格布局并显示 teaser，可取消下面整块注释
+    {% if include.type == 'grid' and teaser %}
       <div class="archive__item-teaser">
         <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="">
       </div>
     {% endif %}
-    #}
+    {%- endcomment -%}
 
-    <!-- 文章标题 -->
+    <!-- 标题 -->
     <h2 class="archive__item-title" itemprop="headline">
       <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
     </h2>
@@ -36,7 +30,7 @@
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: '%Y' }}</p>
     {% endif %}
 
-    <!-- 下载 / 代码链接 -->
+    <!-- Full text / GitHub 链接 -->
     {% assign links = "" %}
     {% if post.paperurl %}
       {% assign links = links | append: '<a href="' | append: post.paperurl | append: '">Full text</a>' %}
@@ -45,7 +39,6 @@
       {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
       {% assign links = links | append: '<a href="' | append: post.githuburl | append: '">GitHub repository</a>' %}
     {% endif %}
-
     {% if links != "" %}
       <p>{{ links }}</p>
     {% endif %}
