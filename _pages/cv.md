@@ -25,13 +25,13 @@ Educational experience
 
 Work experience
 ======
-* **Full-time Teacher**, Hunan University Of Technology and Business (2021–)  
+* **Full-time Teacher**, Hunan University Of Technology and Business (2025–)  
   _Major: Environmental Engineering_
   
 Research Interests
 ======
 * MOFs' Growth and Application
-* Machine learning and Large language model agent in MOFs' Application
+* Machine learning and Large language model agent in AOPs/MOFs' Application
   
 Publications
 ======
