@@ -64,5 +64,3 @@ Service and leadership
 Award
 ======
 * President's Innovation Scholarship of Central South University (2024) 
-* First- and second-class academic scholarships of Central South University (2021–2025)
-* First- and second-class academic scholarships of Beijing University of Chemical Technology (2018–2021)
