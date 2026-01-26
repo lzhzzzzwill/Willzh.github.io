@@ -25,7 +25,7 @@ Educational experience
 
 Work experience
 ======
-* **Full-time Teacher**, Hunan University Of Technology and Business (2025–)  
+* **Lecturer**, Hunan University Of Technology and Business (2025–)  
   _Major: Environmental Engineering_
   
 Research Interests
