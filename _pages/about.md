@@ -13,13 +13,15 @@ My research focuses on applying artificial intelligence to solve challenges in e
 
 Research Area
 ======
-Specifically, I am passionate about leveraging *machine learning (ML), particularly deep learning*, to uncover the relationship between *metal–organic frameworks (MOFs)* and *pollutant removal*. My goal is to use these insights to efficiently screen, design, and synthesize high-performance MOFs—what I like to call ***“performance monsters”***—for environmental remediation.
-﻿
-During my graduate studies, my research focused on arsenic removal, a toxic heavy metal that poses a serious threat to human health. The World Health Organization sets the allowable arsenic concentration in drinking water at 10 ppb, yet many regions in northern China still suffer from levels far exceeding this limit. Motivated by this pressing issue, I have designed a series of MOFs and other functional materials for arsenic removal using a combination of trial-and-error synthesis, machine learning models, and theoretical analysis.
+My research interests focus on the application of deep learning and large language models (LLMs) in metal–organic frameworks (MOFs) for environmental and energy-related applications, with particular emphasis on:
+- Data-driven modeling and intelligent screening of MOFs
+Developing deep learning models to learn structure–property relationships and enable efficient screening and performance prediction of MOFs.
+- LLM-assisted understanding and automation of MOF synthesis
+Applying large language models to extract, organize, and reason over MOF synthesis knowledge from the scientific literature, supporting automated and reproducible research workflows.
+- Design and application of MOF-based functional materials
+Synthesizing and applying MOFs for gas adsorption, pollutant separation, and advanced oxidation processes (AOPs), with the goal of achieving high-performance materials for environmental remediation.
 
-Beyond material discovery, I am also deeply interested in the automation of scientific workflows. I developed a suite of agents powered by large language models (LLMs) to extract MOF synthesis methods directly from scientific literature. This end-to-end pipeline🤖, which I call **MOFh6**, serves as a ***“dragon-searching ruler📏”***—a tool capable of parsing complex text, extracting synthesis knowledge, querying MOF structural data, retrieving crystallographic information files, and even visualizing crystal structures.
-
-Looking ahead, I plan to expand my research into broader application areas of MOFs, including *advanced oxidation processes*, *atmospheric water harvesting*, and *gas separation*. Ultimately, I hope to contribute to sustainable environmental technologies and support nation’s dual carbon goals through intelligent materials design.
+Overall, my research aims to bridge artificial intelligence with experimental materials science, enabling efficient discovery, synthesis, and deployment of high-performance MOFs for sustainable environmental technologies.
 
 Getting started
 ======
