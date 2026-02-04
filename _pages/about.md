@@ -28,7 +28,7 @@ My research interests focus on the application of **deep learning and large lang
 
   <img src="https://raw.githubusercontent.com/lzhzzzzwill/Willzh.github.io/master/images/area.png"
      alt="Research areas of AI-driven MOFs"
-     style="max-width: 80%; margin-top: 24px;">
+     style="max-width: 77%; margin-top: 24px;">
 
 Overall, my research aims to bridge artificial intelligence with experimental materials science to enable efficient discovery, synthesis, and deployment of high-performance MOFs for sustainable environmental technologies.
 
