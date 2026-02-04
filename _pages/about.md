@@ -13,15 +13,24 @@ My research focuses on applying artificial intelligence to solve challenges in e
 
 Research Area
 ======
-My research interests focus on the application of deep learning and large language models (LLMs) in metal–organic frameworks (MOFs) for environmental and energy-related applications, with particular emphasis on:
-- Data-driven modeling and intelligent screening of MOFs
-Developing deep learning models to learn structure–property relationships and enable efficient screening and performance prediction of MOFs.
-- LLM-assisted understanding and automation of MOF synthesis
-Applying large language models to extract, organize, and reason over MOF synthesis knowledge from the scientific literature, supporting automated and reproducible research workflows.
-- Design and application of MOF-based functional materials
-Synthesizing and applying MOFs for gas adsorption, pollutant separation, and advanced oxidation processes (AOPs), with the goal of achieving high-performance materials for environmental remediation.
+### Research Interests
 
-Overall, my research aims to bridge artificial intelligence with experimental materials science, enabling efficient discovery, synthesis, and deployment of high-performance MOFs for sustainable environmental technologies.
+My research interests focus on the application of **deep learning and large language models (LLMs)** in **metal–organic frameworks (MOFs)** for environmental and energy-related applications, with particular emphasis on:
+
+- **Data-driven modeling and intelligent screening of MOFs**  
+  Developing deep learning models to learn structure–property relationships and enable efficient screening and performance prediction of MOFs.
+
+- **LLM-assisted understanding and automation of MOF synthesis**  
+  Applying large language models to extract, organize, and reason over MOF synthesis knowledge from the scientific literature, supporting automated and reproducible research workflows.
+
+- **Design and application of MOF-based functional materials**  
+  Synthesizing and applying MOFs for **gas adsorption**, **pollutant separation**, and **advanced oxidation processes (AOPs)**.
+
+  <img src="https://raw.githubusercontent.com/lzhzzzzwill/Willzh.github.io/master/images/area.png"
+     alt="Research areas of AI-driven MOFs"
+     style="max-width: 80%; margin-top: 24px;">
+
+Overall, my research aims to bridge artificial intelligence with experimental materials science to enable efficient discovery, synthesis, and deployment of high-performance MOFs for sustainable environmental technologies.
 
 Getting started
 ======
