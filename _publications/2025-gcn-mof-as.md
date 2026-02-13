@@ -3,7 +3,7 @@ title: "Rapidly tailor metal–organic frameworks for arsenate removal using gra
 collection: publications
 category: manuscripts
 permalink: /publication/2025-gcn-mof-as
-date: 2024-08-18
+date: 2025-02-19
 venue: 'Separation and Purification Technology'
 githuburl: 'https://github.com/lzhzzzzwill/GCN-Model-for-Arsenate-Adsorption-MOFs'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1383586624030739?via=ihub'
