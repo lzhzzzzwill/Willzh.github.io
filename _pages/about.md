@@ -21,9 +21,9 @@ My research interests focus on the application of **deep learning and large lang
   Developing deep learning models to learn structure–property relationships and enable efficient screening and performance prediction of MOFs.
 
 - **LLM-assisted understanding and automation of MOFs synthesis**  
-  Applying large language models to extract, organize, and reason over MOF synthesis knowledge from the scientific literature, supporting automated and reproducible research workflows.
+  Applying large language models to extract, organize, and reason over MOFs synthesis knowledge from the scientific literature, supporting automated and reproducible research workflows.
 
-- **Design and application of MOF-based functional materials**  
+- **Design and application of MOFs-based functional materials**  
   Synthesizing and applying MOFs for **gas adsorption**, **pollutant separation**, and **advanced oxidation processes (AOPs)**.
 
   <img src="https://raw.githubusercontent.com/lzhzzzzwill/Willzh.github.io/master/images/area.png"
